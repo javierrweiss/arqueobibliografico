@@ -1,5 +1,8 @@
 {:paths ["src" "resources"]
- :deps {org.clojure/clojure {:mvn/version "1.11.1"}}
+ :deps {org.clojure/clojure {:mvn/version "1.11.1"}
+        http-kit/http-kit {:mvn/version "2.8.0-beta3"}
+        com.github.oliyh/martian {:mvn/version "0.1.25"}
+        cheshire/cheshire {:mvn/version "5.12.0"}}
  :aliases
  {:run-m {:main-opts ["-m" "javierweiss.arqueobibliografico"]}
   :run-x {:ns-default javierweiss.arqueobibliografico
