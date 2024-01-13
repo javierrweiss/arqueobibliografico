@@ -3,3 +3,8 @@
 
 (def p (p/open {:launcher :vs-code}))
 (add-tap #'p/submit)
+ 
+(comment
+  (p/close)
+  (tap> "test")
+  )
