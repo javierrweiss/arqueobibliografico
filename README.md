@@ -4,7 +4,9 @@ Este repositorio alberga el código usado en el [Taller de Ciencias Sociales Com
 
 ## ¿Cómo usar este repositorio?
 
-El taller arriba mencionado explica todo lo necesario para armar un entorno de desarrollo en Clojure, sin embargo, el estudiante puede usar este repositorio como un template y, de este manera, se recomienda seguir las instrucciones explicadas en los videos solamente evaluando el código. Este proceder es recomendable para quien no se atreve aún a codificar o se ha encontrado con muchas dificultades.  
+El taller arriba mencionado explica todo lo necesario para armar un entorno de desarrollo en Clojure, sin embargo, el estudiante puede usar este repositorio como un template para facilitarse un poco la tarea. Se recomienda tener a la par el video y el editor de código, seguir las instrucciones explicadas en los videos e ir evaluando el código del presente repositorio. 
+
+Este proceder es recomendable para quien no se atreve aún a codificar o se ha encontrado con muchas dificultades.  
 
 ## License
 
