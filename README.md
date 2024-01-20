@@ -1,6 +1,6 @@
 # Taller de Ciencias Sociales Computacionales. Arqueo bibliográfico    
 
-Este repositorio alberga el código usado en el (Taller de Ciencias Sociales Computacionales. Arqueo bibliográfico)[https://www.youtube.com/watch?v=2vN7x1Zd7O4&list=PLUxsdd9CjsoGwvfLkoTuYnSDB3j0L07Xw]
+Este repositorio alberga el código usado en el [Taller de Ciencias Sociales Computacionales. Arqueo bibliográfico](https://www.youtube.com/watch?v=2vN7x1Zd7O4&list=PLUxsdd9CjsoGwvfLkoTuYnSDB3j0L07Xw)
 
 ## ¿Cómo usar este repositorio?
 
